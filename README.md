@@ -6,3 +6,6 @@
 ## Step 2
 # Install babel compiler
 
+## Step 3
+# Install eslint and configure **eslint --init**
+
