@@ -52,8 +52,9 @@ Set Up A React Web App Base
 
 :heavy_check_mark: Webpack installed and configured;\
 :heavy_check_mark: babel compiler installed and configured ;\
-:heavy_check_mark: eslint installed and configured;
-:heavy_check_mark: Webpack Dev Server installed and configured;
+:heavy_check_mark: eslint installed and configured;\
+:heavy_check_mark: Webpack Dev Server installed and configured;\
+:heavy_check_mark: Run react;
 
 ## :rocket: Technologies ##
 
