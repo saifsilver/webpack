@@ -1,0 +1,24 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "Web Pack Example",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifsilver/webpack.git"
+  },
+  "author": "Saif Sulaiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifsilver/webpack/issues"
+  },
+  "homepage": "https://github.com/saifsilver/webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.0.0"
+  }
+}
