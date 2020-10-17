@@ -50,9 +50,10 @@ Set Up A React Web App Base
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Install Webpack and Setup;\
-:heavy_check_mark: Install babel compiler;\
-:heavy_check_mark: Install eslint and configure;
+:heavy_check_mark: Webpack installed and configured;\
+:heavy_check_mark: babel compiler installed and configured ;\
+:heavy_check_mark: eslint installed and configured;
+:heavy_check_mark: Webpack Dev Server installed and configured;
 
 ## :rocket: Technologies ##
 
